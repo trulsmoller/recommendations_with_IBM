@@ -3,21 +3,22 @@
 ## Author: Truls Møller
 ## Date: 14-June-2020
 
-In this project I made a recommendation engine using rank based and user-user based collaborative filtering
+In this project I made a recommendation engine using rank based, user-user based collaborative filtering and SVD matrix factorization.
 
 ## Files
 
-The project can be understood from the notebook file: Recommendations_with_IBM.ipynb
-Also availble as a html version for viewing in a web brower: Recommendations_with_IBM.html
+The project can be understood from the notebook file: Recommendations_with_IBM.ipynb.
+
+The notebook is also available in a html version for viewing in a web brower: Recommendations_with_IBM.html
 
 The template for this notebook was provided by Udacity as part of their Data Scientist Nanodegree.
 
-Please note that I have not completed the optional exercised towards the end of the notebook. I may revisit this at a later stage.
+Please note that I have not completed the optional exercise (Part IV). I may revisit this at a later stage.
 
 The underlying data files found in the data folder are:
 
 - articles_community.csv
-- user-item-interactions
+- user-item-interactions.csv
 
 ## Installation
 No other libraries beyond a standard Anaconda distribution of Python.
